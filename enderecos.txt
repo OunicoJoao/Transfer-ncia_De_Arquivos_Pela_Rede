@@ -1,0 +1,2 @@
+endereço_1;000.000.0.00
+endereço_exemplo_2;000.000.0.00

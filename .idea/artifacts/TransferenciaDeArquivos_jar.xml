@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TransferenciaDeArquivos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TransferenciaDeArquivos_jar</output-path>
+    <root id="archive" name="TransferenciaDeArquivos.jar">
+      <element id="module-output" name="TransferenciaDeArquivos" />
+    </root>
+  </artifact>
+</component>
